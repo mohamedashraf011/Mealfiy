@@ -12,3 +12,7 @@ Clean and modern UI with smooth transitions
 Integrated Google Fonts and Font Awesome icons
 
 Lightweight and fast – built entirely with HTML & CSS
+
+Demo
+
+https://mohamedashraf011.github.io/Mealfiy/

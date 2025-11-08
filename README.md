@@ -13,6 +13,5 @@ Integrated Google Fonts and Font Awesome icons
 
 Lightweight and fast – built entirely with HTML & CSS
 
-Demo
-
-https://mohamedashraf011.github.io/Mealfiy/
+## Live Demo
+👉 [Check it out here](https://mohamedashraf011.github.io/Mealfiy/)

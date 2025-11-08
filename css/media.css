@@ -4,7 +4,6 @@
     }
 }
 
-/*^========> Container <========*/
 @media screen and (min-width: 1400px) {
     .container {
         max-width: 1320px;
@@ -41,7 +40,6 @@
     }
 }
 
-/*^========> Navbar <========*/
 @media screen and (max-width: 1200px) {
     nav .nav-links {
         --inline-gap: 0px;
@@ -87,7 +85,6 @@
     }
 }
 
-/*^========> Header <========*/
 @media screen and (min-width: 1200px) {
     header {
         min-height: 100vh;
@@ -120,7 +117,6 @@
     }
 }
 
-/*^========> Chefs <========*/
 @media screen and (max-width: 992px) {
     .chefs-cards .card {
         width: calc(calc(100% - var(--gap)) / 2);
@@ -133,7 +129,6 @@
     }
 }
 
-/*^========> Gallery <========*/
 @media screen and (max-width: 1400px) {
     .gallery-photos {
         height: 1000px;
@@ -194,7 +189,6 @@
     }
 }
 
-/*^========> Contacts <========*/
 @media screen and (max-width: 992px) {
     .contact .input-group input {
         width: 100%;
@@ -207,7 +201,6 @@
     }
 }
 
-/*^========> Footer <========*/
 
 @media screen and (max-width: 1200px) {
     footer .container :is(.about, .contact-details) {
